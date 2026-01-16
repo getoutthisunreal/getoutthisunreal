@@ -1,6 +1,4 @@
 <h1 align="center"> Hi there! 안녕하세요! 👋 </h1>
-[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Lighthouse)
-
 
 <h2 align="center">🛠 Technologies & Languages & Tools</h2>
 
