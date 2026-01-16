@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center"> Hi there! 안녕하세요! 👋 </h1>
+<p align="center" align='right'>
+  <a target="_blank" href="https://dev.to/unchase">
+    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/getoutthispage)
 
-<!--
-**getoutthisunreal/getoutthisunreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">🛠 Technologies & Languages & Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" align='right'>
+  <img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine-5-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img alt="VS" src="https://img.shields.io/badge/-VS-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+|Technology|Progress|
+|:-:|:-:|
+|**UE%**<br>**GIT**<br>**OpenAPI**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
