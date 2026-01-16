@@ -1,11 +1,6 @@
 <h1 align="center"> Hi there! 안녕하세요! 👋 </h1>
-<p align="center" align='right'>
-  <a target="_blank" href="https://dev.to/unchase">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/getoutthispage)
+[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Lighthouse)
 
-</p>
 
 <h2 align="center">🛠 Technologies & Languages & Tools</h2>
 
@@ -18,4 +13,4 @@
 
 |Technology|Progress|
 |:-:|:-:|
-|**UE%**<br>**GIT**<br>**OpenAPI**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
+|**UE5**<br>**GIT**<br>**OpenAPI**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
